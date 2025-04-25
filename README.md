@@ -15,4 +15,4 @@ In addition, I played a key role in developing presentation materials, making su
 
 **Work Examples**
 
-Logo:
+Logo: ![PurEco Logo](path/to/purecologo.png)
