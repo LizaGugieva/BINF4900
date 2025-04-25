@@ -15,4 +15,17 @@ In addition, I played a key role in developing presentation materials, making su
 
 **Work Examples**
 
-Logo: ![PurEco Logo](path/to/purecologo.png)
+Logo: 
+
+<img src="https://github.com/LizaGugieva/BINF4900/blob/main/purecologo.png?raw=true" alt="PurEco Logo" width="300">
+
+
+Product Diagram:
+
+<img src="https://github.com/LizaGugieva/BINF4900/blob/main/purecodiagram.png?raw=true" alt="PurEco Diagram" width="300">
+
+
+Advertisements:
+
+<img src="https://github.com/LizaGugieva/BINF4900/blob/main/purecoad1.png?raw=true" alt="PurEco Ad 1" width="300"> <img src="https://github.com/LizaGugieva/BINF4900/blob/main/purecoad2.png?raw=true" alt="PurEco Ad 2" width="300"> <img src="https://github.com/LizaGugieva/BINF4900/blob/main/purecoad3.png?raw=true" alt="PurEco Ad 3" width="300">
+
